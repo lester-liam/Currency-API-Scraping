@@ -1,0 +1,72 @@
+provider,country,currency_code,amount,param1
+Wise,Korea,KRW,6000,
+Wise,China,CNY,7000,
+Wise,Hong Kong,HKD,10000,
+Wise,Singapore,SGD,10000,
+Wise,Australia,AUD,15000,
+Wise,New Zealand,NZD,10000,
+Wise,India,INR,8000,
+Wise,Japan,JPY,5000,
+Wise,America,USD,10000,
+Wise,England,GBP,10000,
+Wise,Thailand,THB,5000,
+Wise,Europe,EUR,8000,
+Wise,Indonesia,IDR,2500,
+Wise,Philipines,PHP,4500,
+Wise,Bangladesh,BDT,2000,
+Wise,Vietnam,VND,8000,
+Wise,Pakistan,PKR,5000,
+Wise,Nepal,NPR,2000,
+Instarem,Korea,KRW,6000,
+Instarem,China,CNY,7000,
+Instarem,Hong Kong,HKD,10000,
+Instarem,Singapore,SGD,10000,
+Instarem,Australia,AUD,15000,
+Instarem,New Zealand,USD,10000,
+Instarem,India,INR,8000,
+Instarem,America,USD,10000,
+Instarem,England,GBP,10000,
+Instarem,Thailand,THB,5000,
+Instarem,Europe,EUR,8000,
+Instarem,Indonesia,IDR,2500,
+Instarem,Philipines,PHP,4500,
+Instarem,Bangladesh,BDT,2000,
+Instarem,Vietnam,VND,8000,
+Instarem,Pakistan,PKR,5000,
+Instarem,Nepal,NPR,2000,
+SunwayMoney,Korea,KRW,6000,KRW-KR
+SunwayMoney,China,CNY,7000,CNY-CN
+SunwayMoney,Hong Kong,HKD,10000,HKD-HK
+SunwayMoney,Singapore,SGD,10000,SGD-SG
+SunwayMoney,Australia,AUD,15000,AUD-AU
+SunwayMoney,New Zealand,NZD,10000,NZD-NZ
+SunwayMoney,India,INR,8000,INR-IN
+SunwayMoney,Japan,JPY,5000,JPY-JP
+SunwayMoney,America,USD,10000,USD-US
+SunwayMoney,England,GBP,10000,GBP-GB
+SunwayMoney,Thailand,THB,5000,THB-TH
+SunwayMoney,Europe,EUR,8000,EUR-DE
+SunwayMoney,Indonesia,IDR,2500,IDR-ID
+SunwayMoney,Philipines,PHP,4500,PHP-PH
+SunwayMoney,Bangladesh,BDT,2000,BDT-BD
+SunwayMoney,Vietnam,VND,8000,VND-VN
+SunwayMoney,Pakistan,PKR,5000,PKR-PK
+SunwayMoney,Nepal,NPR,2000,NPR-NP
+MoneyMatch,Korea,KRW,6000,
+MoneyMatch,China,CNY,7000,
+MoneyMatch,Hong Kong,HKD,10000,
+MoneyMatch,Singapore,SGD,10000,
+MoneyMatch,Australia,AUD,15000,
+MoneyMatch,New Zealand,NZD,10000,
+MoneyMatch,India,INR,8000,
+MoneyMatch,Japan,JPY,5000,
+MoneyMatch,America,USD,10000,
+MoneyMatch,England,GBP,10000,
+MoneyMatch,Thailand,THB,5000,
+MoneyMatch,Europe,EUR,8000,
+MoneyMatch,Indonesia,IDR,2500,
+MoneyMatch,Philipines,PHP,4500,
+MoneyMatch,Bangladesh,BDT,2000,
+MoneyMatch,Vietnam,VND,8000,
+MoneyMatch,Pakistan,PKR,5000,
+MoneyMatch,Nepal,NPR,2000,
