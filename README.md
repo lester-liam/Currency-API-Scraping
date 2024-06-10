@@ -4,7 +4,8 @@ A webscraper that scrapes Malaysia eRemit Companies <i>(Wise, Instaremit, MoneyM
 Some applications for webscraping rates is storing them for future rates predictions and machine learning applications/projects.
 
 ## Disclaimer:
-This repository is solely for learning purposes.<br/>
+This repository is solely for learning purposes on web/api scraping. <br/>
+<i> - Please respect a website's terms or `robots.txt` on webscraping.</I><br/>
 [Ethics in Web Scraping | Towards Data Science ](https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01)
 
 ## Prerequisites
@@ -19,7 +20,23 @@ Clone the Repository
 git clone https://github.com/lester-liam/weather-forecast-email.git
 ```
 ### Update Configuration File
+<hr/>
 In `config.csv`, ensure you added the currencies / rates you want.
+
+<b>Columns Info:</b>
+```python
+# Remittance Site to Scrape
+provider:list = ["Wise", "Instarem", "MoneyMatch", "SunwayMoney"]
+
+country:str     # Country Name (non-standard for output)
+currency:str    # Currency Code as ISO 4217 Format
+amount:int      # Amount to Convert (integer only)
+param1:str      # Additional Parameter for Sunway Money
+```
+
+<b>For Sunway Money:</b><br/>
+Input `param1` as Currency Code [ISO 4217](https://www.iban.com/currency-codes) format + Country Code as [ISO 3166](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) format. <br/>
+Example: Singapore Dollar = SGD-SG
 
 ## Running the Code
 The code should run out of the box. However you can also configure the file output locations.
@@ -60,3 +77,14 @@ processes = [
     Process(..., "./output/moneymatch.csv"))
 ]
 ```
+<hr/>
+
+## Credits / References
+Remittance Websites used in the code.<br/>
+[MoneyMatch](https://transfer.moneymatch.co/)<br/>
+[Instarem](https://www.instarem.com/en-my/)<br/>
+[Wise](https://wise.com/my/)<br/>
+[Sunway Money](https://sunwaymoney.com/)<br/>
+
+## Licenses
+[Unlicense](https://unlicense.org/)
